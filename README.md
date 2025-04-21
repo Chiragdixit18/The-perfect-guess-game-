@@ -1,1 +1,1 @@
-# The-perfect-guess-game-
+This gane is a guessing game where computer assumes a number and you have to guess it,if you guess a number higher than the required number computer instructs you to guess a lower number and so for a higher guess.As you guess the number,computer tells you that you succeeded and it will also tell you the number of attempts you took to actually guess the number.
